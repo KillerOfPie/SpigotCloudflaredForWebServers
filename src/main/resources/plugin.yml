@@ -1,0 +1,10 @@
+name: SpigotCloudflaredForWebServers
+version: '${project.version}'
+main: com.pastrymakerstudios.scfws.scfs.SpigotCloudflaredForWebServers
+api-version: '1.20'
+prefix: PM-S
+load: STARTUP
+depend: [BKCommonLib]
+authors: [Pastry Maker Studios]
+description: Cloudflared Tunnel for Webservers running from minecraft spigot servers
+website: PastryMaker-studios.com
